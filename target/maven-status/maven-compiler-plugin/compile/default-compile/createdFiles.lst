@@ -1,0 +1,8 @@
+com\referite\models\FavoriteCollectionModel.class
+com\referite\models\FavoriteModel.class
+com\referite\constants\ServiceConstants.class
+com\referite\controllers\GetFavorites.class
+com\referite\controllers\RestServiceBaseClass.class
+com\referite\models\LinkObject.class
+com\referite\controllers\AddOneFavorite.class
+com\referite\controllers\HelloWorldService.class
